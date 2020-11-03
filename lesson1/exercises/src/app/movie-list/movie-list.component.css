@@ -1,0 +1,13 @@
+h3 {    
+    text-align: center;
+}
+/*unsure if this is working, as heading is same width as the total list*/
+
+ol {
+    font-size: 28l
+}
+/* not sure how to do this--changing the value does not affect the webpage*/
+
+.movies {
+    color:  #f7ca4f;
+}
